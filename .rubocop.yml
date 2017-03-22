@@ -1,0 +1,16 @@
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+    - 'Rakefile'
+    - 'Guardfile'
+    - 'tmp/**/*'
+  DisplayCopNames: true
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 128
+
+Rails:
+  Enabled: false
