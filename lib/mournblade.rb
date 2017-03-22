@@ -1,4 +1,4 @@
-require "mournblade/version"
+require 'mournblade/version'
 
 module Mournblade
   # Your code goes here...
